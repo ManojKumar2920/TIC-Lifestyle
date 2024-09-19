@@ -5476,7 +5476,9 @@ figcaption {
     border-radius: 32px;
   }
   .maps-g{
-   
+   width: 370px;
+    height: 200px;
+    border-radius: 32px;
   }
 }
 .footer-bottom-nav {
