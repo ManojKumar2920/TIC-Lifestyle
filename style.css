@@ -9703,7 +9703,7 @@ figcaption {
 
   .home-vertical-hero-image-wrapper {
     border-radius: 0;
-    height: 75vw;
+    height: 95vw;
   }
 
   .home-vertical-services-architecture-card {
@@ -11903,9 +11903,7 @@ width: 350px;
     border-radius: 1rem;
   }
 
-  .home-vertical-hero-image-wrapper {
-    height: 100vh;
-  }
+  
 
   .home-vertical-services-architecture-card {
     border-radius: 1rem;
