@@ -4246,7 +4246,7 @@ figcaption {
 
 .heading-style-large {
   font-family: General Sans, sans-serif;
-  font-size: 7vw;
+  font-size: 5vw;
   font-weight: 400;
   line-height: 100%;
 }
@@ -7958,7 +7958,7 @@ figcaption {
   }
 
   .heading-style-large {
-    font-size: 8rem;
+    font-size: 5rem;
   }
 
   .heading-style-h6 {
@@ -8558,7 +8558,7 @@ figcaption {
   }
 
   .heading-style-large {
-    font-size: 5rem;
+    font-size: 3rem;
   }
 
   .text-size-xlarge {
@@ -10109,7 +10109,7 @@ figcaption {
   }
 
   .heading-style-large {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
   .text-size-xlarge {
