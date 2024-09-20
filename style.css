@@ -6854,7 +6854,10 @@ figcaption {
   width: 600px;
 }
 
+.post-vertical-preview-image {
+  object-fit: cover;
 
+}
 
 .post-vertical-preview-card {
   z-index: 10;
